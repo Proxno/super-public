@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'Lexend Deca';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url('https://cdn.animixreplay.to/aHR0cHMlM0ElMkYlMkZhbmltaXhyZXBsYXkudG8lMkZhc3NldHMlMkZmb250cyUyRmxleGVuZC53b2ZmMg==') format('woff2'), url('https://cdn.animixreplay.to/aHR0cHMlM0ElMkYlMkZhbmltaXhyZXBsYXkudG8lMkZhc3NldHMlMkZmb250cyUyRmxleGVuZC53b2Zm') format('woff'), url('https://cdn.animixreplay.to/aHR0cHMlM0ElMkYlMkZhbmltaXhyZXBsYXkudG8lMkZhc3NldHMlMkZmb250cyUyRmxleGVuZC50dGY=') format('truetype')
+}
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url('https://cdn.animixreplay.to/aHR0cHMlM0ElMkYlMkZhbmltaXhyZXBsYXkudG8lMkZhc3NldHMlMkZmb250cyUyRnJvYm90by53b2ZmMg==') format('woff2'), url('https://cdn.animixreplay.to/aHR0cHMlM0ElMkYlMkZhbmltaXhyZXBsYXkudG8lMkZhc3NldHMlMkZmb250cyUyRnJvYm90by53b2Zm') format('woff'), url('https://cdn.animixreplay.to/aHR0cHMlM0ElMkYlMkZhbmltaXhyZXBsYXkudG8lMkZhc3NldHMlMkZmb250cyUyRnJvYm90by50dGY=') format('truetype')
+}
+
+@font-face {
+    font-family: "Glyphicons Halflings";
+    src: url('https://cdn.animixreplay.to/aHR0cHMlM0ElMkYlMkZhbmltaXhyZXBsYXkudG8lMkZhc3NldHMlMkZmb250cyUyRmdseXBoLndvZmYy') format("woff2"), url('https://cdn.animixreplay.to/aHR0cHMlM0ElMkYlMkZhbmltaXhyZXBsYXkudG8lMkZhc3NldHMlMkZmb250cyUyRmdseXBoLndvZmY=') format("woff"), url('https://cdn.animixreplay.to/aHR0cHMlM0ElMkYlMkZhbmltaXhyZXBsYXkudG8lMkZhc3NldHMlMkZmb250cyUyRmdseXBoLnR0Zg==') format('truetype'), url('https://cdn.animixreplay.to/aHR0cHMlM0ElMkYlMkZhbmltaXhyZXBsYXkudG8lMkZhc3NldHMlMkZmb250cyUyRmdseXBoLnN2Zw==') format("svg")
+}
